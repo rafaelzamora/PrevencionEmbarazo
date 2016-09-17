@@ -4,7 +4,9 @@ package com.example.cs.prevencinembarazo;
  * Created by gesab on 9/17/2016.
  */
 
-import android.support.design.widget.Snackbar;
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,44 +15,84 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder> {
-
+    Context context;
+    private int[] images = {
+            R.drawable.img_anticonceptivos,
+            R.drawable.img_enfermedades,
+            R.drawable.img_legal,
+            R.drawable.img_factores,
+            R.drawable.img_faqs,
+            R.drawable.img_parque,
+            R.drawable.img_mesa
+    };
     private String[] titles = {
-            "Métodos Anticonceptivos",
-            "Enfermedades Venéreas",
+            "Anticonceptivos",
+            "Enfermedades",
             "Marco Legal",
             "Factores de Riesgo",
             "Preguntas Frecuentes",
             "Actividades del Parque",
-            "Acerca de Prevención del Embarazo"
+            "Acerca de ..."
     };
-
-    private int[] images = {
-            R.drawable.menu_1,
-            R.drawable.menu_1,
-            R.drawable.menu_1,
-            R.drawable.menu_1,
-            R.drawable.menu_1,
-            R.drawable.menu_1,
-            R.drawable.menu_1
+    private String[] details = {
+            "Información acerca de métodos anticonceptivos",
+            "Información acerca de enfermedades venéreas y de transmisión sexual",
+            "Implicaciones legales que puede acarrear un embarazo no planeado",
+            "Cuestionario para determinar si las conductas sexuales practicadas son riegosas",
+            "Acceso a preguntas frecuentes realizadas",
+            "Detalles acerca de las actividades realizadas por el Parque La Libertad",
+            "Acerca de la aplicación para evitar la prevención del embarazo no planeado"
     };
 
     class ViewHolder extends RecyclerView.ViewHolder{
         public int currentItem;
         public ImageView itemImage;
         public TextView itemTitle;
+        public TextView itemDetail;
 
         public ViewHolder(View itemView) {
             super(itemView);
             itemImage = (ImageView)itemView.findViewById(R.id.item_image);
             itemTitle = (TextView)itemView.findViewById(R.id.item_title);
-
+            itemDetail = (TextView)itemView.findViewById(R.id.item_detail);
             itemView.setOnClickListener(new View.OnClickListener() {
-                @Override public void onClick(View v) {
+                @Override
+                public void onClick(View v) {
                     int position = getAdapterPosition();
-                    Snackbar.make(v, "Click detected on item " + position,
-                            Snackbar.LENGTH_LONG)
-                            .setAction("Action", null).show();
-
+                    //Click en un cardview
+                    //Snackbar.make(v, "Click en la posición: " + position, Snackbar.LENGTH_LONG).setAction("Action", null).show();
+                    Intent intent;
+                    context = v.getContext();
+                    // Anticonceptivos
+                    if (position == 0) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    //Enfermendades
+                    else if (position == 1) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    //Marco Legal
+                    else if (position == 2) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    //Factores de Riesgo
+                    else if (position == 3) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    //Preguntas Frecuentes
+                    else if (position == 4) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    //Actividades del Parque
+                    else if (position == 5) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    //Acerca de
+                    else {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }
+                    context.startActivity(intent);
+                    ((Activity) context).overridePendingTransition(R.anim.fadein, R.anim.fadeout);
                 }
             });
         }
@@ -65,8 +107,9 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
 
     @Override
     public void onBindViewHolder(ViewHolder viewHolder, int i) {
-        viewHolder.itemTitle.setText(titles[i]);
         viewHolder.itemImage.setImageResource(images[i]);
+        viewHolder.itemTitle.setText(titles[i]);
+        viewHolder.itemDetail.setText(details[i]);
     }
 
     @Override

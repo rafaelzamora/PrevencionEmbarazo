@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimaryDark">#37474f</color>
-    <color name="colorPrimary">#5f7c89</color>
-    <color name="colorPrimaryLight">#cdd6da</color>
-    <color name="texticons">#ffffff</color>
-    <color name="colorAccent">#ee5350</color>
-    <color name="textColorPrimary">#212121</color>
-    <color name="textColorSecondary">#747474</color>
-    <color name="dividerColor">#bbbbbb</color>
-
-    <color name="windowBackground">#212121</color>
-    <color name="navigationBarColor">#000000</color>
-
-    <color name="colorTranslucent">#55000000</color>
-    <color name="darkBlue">#1A1A1A</color>
-    <color name="colorToolbar">#1C3D80</color>
-    <color name="colorMicrosoftBlue">#0C2D60</color>
-    <color name="colorAppBackground">#303030</color>
+    <color name="colorPrimaryBackground">#222222</color>
+    <color name="colorPrimaryCardView">#364751</color>
+    <color name="colorPrimaryCardViewText">#0287d0</color>
+    <color name="colorSecondaryCardViewText">#ffffff</color>
 </resources>
