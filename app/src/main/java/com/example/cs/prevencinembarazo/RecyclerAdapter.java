@@ -89,7 +89,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     }
                     //Acerca de
                     else {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
+                        intent = new Intent(context, AcercadeActivity.class);
                     }
                     context.startActivity(intent);
                     ((Activity) context).overridePendingTransition(R.anim.fadein, R.anim.fadeout);
