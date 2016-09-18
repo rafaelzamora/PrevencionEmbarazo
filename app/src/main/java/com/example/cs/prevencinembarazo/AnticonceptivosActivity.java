@@ -2,6 +2,7 @@ package com.example.cs.prevencinembarazo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 
 public class AnticonceptivosActivity extends AppCompatActivity {
 
@@ -9,5 +10,10 @@ public class AnticonceptivosActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_anticonceptivos);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.test_toolbar);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setTitle("Activity Test");
     }
 }

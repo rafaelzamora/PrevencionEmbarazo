@@ -1,4 +1,36 @@
 <resources>
-    <string name="app_name">Prevención Embarazo</string>
+    <string name="app_name">Prevención del Embarazo</string>
     <string name="action_settings">Configuración</string>
+    
+    <string name="about_titleDescription">Descripción</string>
+    <string name="about_description">El objetivo de esta iniciativa es por medio de una app lúdica e
+        interactiva brindar conocimientos y una herramienta a los niños y niñas para formar su
+        proyecto de vida, prevenir el embarazo en adolescentes, instruir sobre la utilización
+        de métodos conceptivos, enfermedades sexuales y todo aquello relacionado al sexo.
+        Como consecuencia podría traer una disminución de embarazos no deseados en adolescentes.
+        Esto porque al estar informado de los temas relacionados a este entorno puede protegerse
+        y tomar decisiones responsables. Va dirigida a todo público, pero se enfoca en la población
+        de  estudiantes de escuelas y colegios.  (9+)</string>
+    
+    <string name="about_titleAuthors">Autores</string>
+    <string name="about_Authors">>Gerardo Saborio Ortega (Desarrollador) \n
+                                >Rafael Zamora Arguedas (Desarrollador)</string>
+
+    <string name="about_titleContributors">Colaboradores</string>
+    <string name="about_Contributors">Se extiende un agradecimiento especial a las siguientes
+                                        personas por su colaboración con la realización del proyecto:\n
+                                        >Adriana Álvarez Figueroa (Coordinadora del Centro Académico San José)\n
+                                        >Gabriela Pereira (Coordinadora del Centro Infantil y Juvenil del Parque de la Paz)\n
+                                        >Ricardo Saborio (Diseñador Gráfico)</string>
+    <string name="about_titleContact">Contacto</string>
+    <string name="about_Contact">Gabriela Pereira Carpio\n
+        Coordinadora del Centro Infantil y Juvenil\n
+        E-mail: gpereira@parquelalibertad.org\n
+        Tel.: (506) 2276.9400 ext. 2023\n
+        www.parquelalibertad.org</string>
+    <string name="about_titleCopyright">Copyright © 2016 Instituto Tecnológico de Costa Rica (Curso Dispositivos Móviles)</string>
+
+    
+    
+    
 </resources>

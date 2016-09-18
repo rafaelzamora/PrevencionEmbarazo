@@ -17,9 +17,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
-        <activity android:name=".AnticonceptivosActivity" />
-        <activity android:name=".AcercadeActivity"></activity>
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme"
+            />
+        <activity android:name=".AnticonceptivosActivity"
+            android:parentActivityName=".MainActivity"/>
+
+        <activity android:name=".AcercadeActivity"
+            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>
