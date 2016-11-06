@@ -38,7 +38,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             "Información acerca de métodos anticonceptivos",
             "Información acerca de enfermedades venéreas y de transmisión sexual",
             "Implicaciones legales que puede acarrear un embarazo no planeado",
-            "Cuestionario para determinar si las conductas sexuales practicadas son riegosas",
+            "Cuestionario para determinar si las conductas sexuales practicadas son riesgosas",
             "Acceso a preguntas frecuentes realizadas",
             "Detalles acerca de las actividades realizadas por el Parque La Libertad",
             "Acerca de la aplicación para evitar la prevención del embarazo no planeado"
