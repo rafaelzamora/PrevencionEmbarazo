@@ -17,6 +17,7 @@ import android.widget.TextView;
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder> {
     Context context;
     private int[] images = {
+            R.drawable.img_mesa,
             R.drawable.img_anticonceptivos,
             R.drawable.img_enfermedades,
             R.drawable.img_legal,
@@ -26,6 +27,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             R.drawable.img_mesa
     };
     private String[] titles = {
+            "Bienvenida",
             "Anticonceptivos",
             "Enfermedades",
             "Marco Legal",
@@ -35,6 +37,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             "Acerca de ..."
     };
     private String[] details = {
+            "Todo a su tiempo. Antes de tomar una decisión, INFÓRMATE Y PIENSA",
             "Información acerca de métodos anticonceptivos",
             "Información acerca de enfermedades venéreas y de transmisión sexual",
             "Implicaciones legales que puede acarrear un embarazo no planeado",
@@ -64,28 +67,31 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     //Snackbar.make(v, "Click en la posición: " + position, Snackbar.LENGTH_LONG).setAction("Action", null).show();
                     Intent intent;
                     context = v.getContext();
-                    // Anticonceptivos
+                    //Bienvenida
                     if (position == 0) {
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
-                    //Enfermendades
+                    // Anticonceptivos
                     else if (position == 1) {
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
-                    //Marco Legal
+                    //Enfermendades
                     else if (position == 2) {
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
-                    //Factores de Riesgo
+                    //Marco Legal
                     else if (position == 3) {
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
-                    //Preguntas Frecuentes
+                    //Factores de Riesgo
                     else if (position == 4) {
+                        intent = new Intent(context, AnticonceptivosActivity.class);
+                    }//Preguntas Frecuentes
+                    else if (position == 5) {
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
                     //Actividades del Parque
-                    else if (position == 5) {
+                    else if (position == 6) {
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
                     //Acerca de
