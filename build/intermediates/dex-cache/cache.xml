@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f85c3ef8e0a1f8ae06baf194a2a192d359dcf1bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_43d9184a9d2241e0334041ac562b83d8be7407d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f82480b29eadcabe1c5f6e4785bc48f200a01d78">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b8fd625f9b2e19c1507aaf60afa0198ad659492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_2f90bf464f7320f1538733bccd6797fbb2f592e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_9169fe632f748acede385196044d591a493bba26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_19769bb4e390185a63243660c20353d7353679c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8d9770c63a98c2d70952bbc161009ff5a17ed2fe">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0065f34c511f007782d4edf44c8c892cc18af27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_0a7457680f10ab5bc205b63cda0a310b9ddf3417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_6cfdbbf2d12899071387bb5392e2521a2a7cd65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4e34276f289d1b609b924b323e2a8819ae73a902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_cd4cd87caea362f2e99352adb04f2930b356e7e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_98f36e8d37b3735ead6659593d6f800c989afa62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_bc279e6af40388c9df9bb5eb86df7734cd4ee554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_6f2bfa8708a06e56e02907f39cac1f841b9632c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_df342f46867e7db7a60e31ab21fc0fa3711bc7c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_acea1c6ed553bbcc56aa73194eb2eee056d11ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_6a3fbf546525eb635bf7d792943fa86087d9f23f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_6f0cf24968d1de9ca029c2b224f062217e37bec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_4be42871c46d4c27a776fc324456bce0cc76b536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e9b97b3b35ec495e7dd7ead82246d2e879a4113d/classes.dex" />
+    </item>
+
+</items>
