@@ -69,7 +69,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     context = v.getContext();
                     //Bienvenida
                     if (position == 0) {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
+                        intent = new Intent(context, BienvenidaActivity.class);
                     }
                     // Anticonceptivos
                     else if (position == 1) {
