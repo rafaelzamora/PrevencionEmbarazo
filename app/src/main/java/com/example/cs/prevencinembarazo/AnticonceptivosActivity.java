@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 
+
 public class AnticonceptivosActivity extends AppCompatActivity {
 
     @Override
@@ -16,6 +17,5 @@ public class AnticonceptivosActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setTitle("Activity Test");
 
-        //PlayYoutubeVideoActivity playerVideo= new  PlayYoutubeVideoActivity();
     }
 }

@@ -13,7 +13,7 @@ import com.google.android.youtube.player.YouTubePlayerView;
 
 public class PlayYoutubeVideoActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
     public static final String API_KEY = Config.YOUTUBE_API_KEY;
-    public static final String VIDEO_ID = "W9TTit0LOM0"; //
+    public static final String VIDEO_ID = "W9TTit0LOM0";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,9 +24,6 @@ public class PlayYoutubeVideoActivity extends YouTubeBaseActivity implements You
         YouTubePlayerView youTubePlayerView = (YouTubePlayerView) findViewById(R.id.youtube_view);
         youTubePlayerView.initialize(API_KEY, this);
     }
-
-
-
 
     @Override
     public void onInitializationFailure(Provider provider, YouTubeInitializationResult result) {
