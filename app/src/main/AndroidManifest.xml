@@ -24,21 +24,21 @@
         <activity
             android:name=".MainActivity"
             android:theme="@style/AppTheme" />
-
         <activity
             android:name=".AnticonceptivosActivity"
             android:parentActivityName=".MainActivity" />
-
         <activity
             android:name=".AcercadeActivity"
             android:parentActivityName=".MainActivity" />
-
+        <activity android:name=".PlayYoutubeVideoActivity" />
         <activity
-            android:name=".PlayYoutubeVideoActivity" />
+            android:name=".BienvenidaActivity"
+            android:parentActivityName=".MainActivity" />
 
-        <activity android:name=".BienvenidaActivity"
-            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".CalendarioActivity"
+            android:parentActivityName=".MainActivity" >
 
+        </activity>
     </application>
 
 </manifest>

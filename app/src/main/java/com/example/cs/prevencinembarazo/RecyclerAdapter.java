@@ -92,7 +92,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     }
                     //Actividades del Parque
                     else if (position == 6) {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
+                        intent = new Intent(context, CalendarioActivity.class);
                     }
                     //Acerca de
                     else {
