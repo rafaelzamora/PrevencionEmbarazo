@@ -2,6 +2,6 @@
 <resources>
     <color name="colorPrimaryBackground">#222222</color>
     <color name="colorPrimaryCardView">#364751</color>
-    <color name="colorPrimaryCardViewText">#0287d0</color>
+    <color name="colorPrimaryCardViewText">#85d5ff</color>
     <color name="colorSecondaryCardViewText">#ffffff</color>
 </resources>

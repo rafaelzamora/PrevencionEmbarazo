@@ -77,7 +77,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     }
                     //Enfermendades
                     else if (position == 2) {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
+                        intent = new Intent(context, PlayYoutubeVideoActivity.class);
                     }
                     //Marco Legal
                     else if (position == 3) {

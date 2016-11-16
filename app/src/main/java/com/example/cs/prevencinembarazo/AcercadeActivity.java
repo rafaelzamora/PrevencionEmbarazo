@@ -15,5 +15,8 @@ public class AcercadeActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayShowTitleEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setTitle("Acerca del Proyecto");
+
+
+
     }
 }
