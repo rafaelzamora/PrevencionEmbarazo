@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="63a5b1a8c75cb0249f12837d99760b2094ee2931">
+        sha1="b132a68c267a7db8b33f35c4241181ac72edd459">
         <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b8fd625f9b2e19c1507aaf60afa0198ad659492/classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="44beb6a14c4f5d37bb22b89e9e39c15e3d4bb74b">
+        sha1="aea59cc78d031e00099e7dec083b673ca925d06d">
         <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0065f34c511f007782d4edf44c8c892cc18af27/classes.dex" />
     </item>
     <item

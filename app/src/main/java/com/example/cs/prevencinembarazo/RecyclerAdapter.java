@@ -88,7 +88,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }//Preguntas Frecuentes
                     else if (position == 5) {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
+                        intent = new Intent(context, PreguntasFrecuentesActivity.class);
                     }
                     //Actividades del Parque
                     else if (position == 6) {
