@@ -5,10 +5,7 @@ package com.example.cs.prevencinembarazo;
  */
 
 public final class Config {
-
     private Config() {
     }
-
     public static final String YOUTUBE_API_KEY = "AIzaSyCMqEpEOqQQhVotp7UvAQ9zeYWhWK75Dd8";
-
 }

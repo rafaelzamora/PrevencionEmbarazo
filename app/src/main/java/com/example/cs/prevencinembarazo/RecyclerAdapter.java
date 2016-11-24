@@ -13,6 +13,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder> {
     Context context;
@@ -73,11 +74,12 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     }
                     // Anticonceptivos
                     else if (position == 1) {
+                        //Toast.makeText(context, "test", Toast.LENGTH_LONG).show();
                         intent = new Intent(context, AnticonceptivosActivity.class);
                     }
                     //Enfermendades
                     else if (position == 2) {
-                        intent = new Intent(context, PlayYoutubeVideoActivity.class);
+                        intent = new Intent(context, EnfermedadesActivity.class);
                     }
                     //Marco Legal
                     else if (position == 3) {

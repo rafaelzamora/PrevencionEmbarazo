@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
         adapter = new RecyclerAdapter();
         recyclerView.setAdapter(adapter);
-
     }
 
     @Override

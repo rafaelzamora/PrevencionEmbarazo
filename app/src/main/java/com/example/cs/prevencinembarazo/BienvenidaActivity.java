@@ -34,7 +34,7 @@ public static final String VIDEO_ID = "W9TTit0LOM0";
 
     @Override
     public void onInitializationFailure(YouTubePlayer.Provider provider, YouTubeInitializationResult result) {
-        Toast.makeText(this, "Failured to Initialize!", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Failure to Initialize!", Toast.LENGTH_LONG).show();
     }
 
     @Override

@@ -34,14 +34,13 @@
         <activity
             android:name=".BienvenidaActivity"
             android:parentActivityName=".MainActivity" />
-
         <activity
             android:name=".CalendarioActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PreguntasFrecuentesActivity"
             android:parentActivityName=".MainActivity"></activity>
-
-        <activity android:name=".PreguntasFrecuentesActivity"
-            android:parentActivityName=".MainActivity">
-        </activity>
+        <activity android:name=".EnfermedadesActivity"></activity>
     </application>
 
 </manifest>

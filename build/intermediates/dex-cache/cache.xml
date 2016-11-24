@@ -3,417 +3,417 @@
 
     <item
         is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f85c3ef8e0a1f8ae06baf194a2a192d359dcf1bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_dd1682390a0cb1c685fcdfec2b2f879c276dc3c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_43d9184a9d2241e0334041ac562b83d8be7407d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b132a68c267a7db8b33f35c4241181ac72edd459">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b8fd625f9b2e19c1507aaf60afa0198ad659492/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_2f90bf464f7320f1538733bccd6797fbb2f592e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_9169fe632f748acede385196044d591a493bba26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/libs/YouTubeAndroidPlayerApi.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_bdc4a7e8acd99c6102af860073f25af6f7c27d81/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_6842fcb8b8c7d8d2b1e2007b0aa4e403c8aa98a7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_1f301c28d22e524a8e0d04f7b614b1bd1ead9e0f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_19769bb4e390185a63243660c20353d7353679c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="aea59cc78d031e00099e7dec083b673ca925d06d">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0065f34c511f007782d4edf44c8c892cc18af27/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_0a7457680f10ab5bc205b63cda0a310b9ddf3417/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_7e6d2b250d5e6555cfff3f58de9e127158e906de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_6cfdbbf2d12899071387bb5392e2521a2a7cd65f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_2f3937d3b7794014825a29bf1c881686c8e87533/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4e34276f289d1b609b924b323e2a8819ae73a902/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_ca9166ba6b3ed3a043dc627a86a01dcbec233f86/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_dad1fc66498a812c1656fede2d603de7dfd02553/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_cd4cd87caea362f2e99352adb04f2930b356e7e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_0fa8ee857dd12f09b1b7784c215ed0bc1bccaa11/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_8719cfd07ebf1dbef23544ef15acef7ea92b2d16/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_4ee6b7af56ed7e90eb48395ccd55d8a374d59cdd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_eddd7c9d26d8b83a1bf51b460ddf9fc62a9acbc8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_a2d95e257ec0832767239efc6aae852e0cb87c01/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_98f36e8d37b3735ead6659593d6f800c989afa62/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_74969addc0b79ab7c5de67ec8e09967f8f25aeb7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_95b6af35317c8d8f960beeb3b6a6233c0bf182a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b0d19a7f48ab863a78e6beed29afffbfacd0cf02/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_bc279e6af40388c9df9bb5eb86df7734cd4ee554/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_2c5e033614f5c5adb536ac1a68cde3fb41bdbdc6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_aa900acb20b27a748f3b1565e0f6d1c80ad927b7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_4ae8aad99677af66ae72546868fd977ce066034e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_dfe4836cfd93c1923dee0d868cfad79b217b5482/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_6f2bfa8708a06e56e02907f39cac1f841b9632c2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_8e613dfcb6ef14505526e8fac6b078327c8d8002/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_eef502ce67433b15fa8b9c22b156f7df0549d67d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_0fc2e2f9874909f712bc0a83068b6e028dff2a0b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_4c12ffdad543b13364e190b26cbc91fd65a053d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_df342f46867e7db7a60e31ab21fc0fa3711bc7c7/classes.dex" />
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2484dc2e2f27186679deae7145b4f6fdb075af74\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_acea1c6ed553bbcc56aa73194eb2eee056d11ef8/classes.dex" />
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_f84124bca598fbb916823c3b81779dca470ad443\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_6a3fbf546525eb635bf7d792943fa86087d9f23f/classes.dex" />
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_acbebd31ad3b5af70a2674b2f7b95b5d18ea6ee4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_6f0cf24968d1de9ca029c2b224f062217e37bec2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_4be42871c46d4c27a776fc324456bce0cc76b536/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_6afd086306e43c13619417e508b182c55e8d0b8c/classes.dex" />
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_9e5189c53b969f5c8fac4cc82d9ca1b81dabcb4b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_df1676abe4cf9c74867c2c9b5368614f86c0614b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_5e803f733fe7d56b19cb818d71580d58d33f9076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_9b17b4e94c797f831e82a5869fbd136623f25cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_3e36bc472ca00805e4a01548ef1e95f92faca22a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_3b63ade715e2b88e56b2e19b6235b6b1d12c13af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_bd90161f5e5236672da132fd8762a78b52023831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_56700ecaa54bb10345595729fc1e69759a162c07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_04111b73e51e02e9ef9f18f145748ec684293b94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_c3f3face6e5cef629bb550bc988c88dd23a3b3a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_14cb9cce85f9f7412d375ec7bc4320d2e93b778d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_1df85dda6cbf14b44b9752a35e23339f8aa6f244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_7dd4fc84491d14c613cc05012c18ebe98170fad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_346ffb3437b7a2d33e5bbeca6233a6afceab7a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_1a0dfd3938bae3ba1dbd742037f2376d84b6da3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_a129c106935198348a40134e4958e52ca114949d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_96dcb658bf98131cff13cc03071696bf92fac69b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="248fef8b60556749d659d2a6c740d521ed082e65">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_be3633c9157317e32b059cd6dddd6edb316213f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_7c520b286165cbee2b747096c6e97b7c6b9c5a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_0d501a1f655b1d70056c8e50e16a4528c974db74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gesab\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_eeba80bf946ba1c2a03819197ce1a08b08c028a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_1f25db79a75d727183344d423464303048fdf653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_b34365f01c5f9378a8b87e20d6c227606287b3bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ce68a7b1bafe3e0613c1a5d8c139549aea964aec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_c559a1aa3bcc0439946f9de2e45c61ad5990c65f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_8f07641d2b2b0a481d38d50d61c72a3e381e24a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_06b8fbf9cf2a7706c308ecb980f61920f5387021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_8c0c050512e754060674eeefa50e51baeff26965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_3b86fb623cb3698e08a059140e9339201176b129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ce7fcebcd900dcade2badec9682c61f8e44f51e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_063db7d0670c9246fd0a4b71fa0be5fddc4d8563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_754994a49b7a851c34de9c7cf26fb57abdfb1d37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_ab5d311b9411b3eca8ef26ab3d745d1beb8f465c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_77fe5a4fda154cb264fe34d14b1dc1dfb2f42398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_331574f3cf0c281ac0c3935e5611190ef8ad231b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="33e3633f8a6e19eeb34c6ae3382c62603cdd0533">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b4fcba8ee7cf72272e8fa5e6ed055371ef1061fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_13317009f77b73f1edd8c939247c0b7744fb90d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_4135b81f414cd0d5a8d58acbbfe7ad864d604c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_da584d18c6413c03104e8b6dd386cc27e178a47c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_08c6d04c5c38e6e03dd0ffac9d416e8faeb8b489/classes.dex" />
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_4ef3216143a6c0e8b71723662dfa55a8a1718535\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/rafael/Documents/PrevencionEmbarazo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e9b97b3b35ec495e7dd7ead82246d2e879a4113d/classes.dex" />
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0e6630c52ddad8dca31aa94189461df4de72ee64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0ab34dc5e5dcf50f75d3e9e1c7209abceea2ac00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="D:\Gera\ITCR\GitHub\PrevencionEmbarazo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_dd326404dfe41869818ade1c407eb18ba4390402\classes.dex" />
     </item>
 
 </items>
