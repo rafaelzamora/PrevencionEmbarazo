@@ -15,7 +15,7 @@ import com.google.android.youtube.player.YouTubePlayerView;
 
 public class EnfermedadesActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
     public static final String API_KEY = Config.YOUTUBE_API_KEY;
-    public static final String VIDEO_ID = "W9TTit0LOM0";
+    public static final String VIDEO_ID = "Rg8EdW-qMZM";
     RecyclerView recyclerView;
     RecyclerView.LayoutManager layoutManager;
     RecyclerView.Adapter adapter;

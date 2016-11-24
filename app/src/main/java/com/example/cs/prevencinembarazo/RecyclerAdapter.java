@@ -22,7 +22,6 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             R.drawable.img_anticonceptivos,
             R.drawable.img_enfermedades,
             R.drawable.img_legal,
-            R.drawable.img_factores,
             R.drawable.img_faqs,
             R.drawable.img_parque,
             R.drawable.img_mesa
@@ -32,7 +31,6 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             "Anticonceptivos",
             "Enfermedades",
             "Marco Legal",
-            "Factores de Riesgo",
             "Preguntas Frecuentes",
             "Actividades del Parque",
             "Acerca de ..."
@@ -42,7 +40,6 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             "Información acerca de métodos anticonceptivos",
             "Información acerca de enfermedades venéreas y de transmisión sexual",
             "Implicaciones legales que puede acarrear un embarazo no planeado",
-            "Cuestionario para determinar si las conductas sexuales practicadas son riesgosas",
             "Acceso a preguntas frecuentes realizadas",
             "Detalles acerca de las actividades realizadas por el Parque La Libertad",
             "Acerca de la aplicación para evitar la prevención del embarazo no planeado"
@@ -83,17 +80,14 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     }
                     //Marco Legal
                     else if (position == 3) {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
+                        intent = new Intent(context, MarcoLegalActivity.class);
                     }
-                    //Factores de Riesgo
+                    //Preguntas Frecuentes
                     else if (position == 4) {
-                        intent = new Intent(context, AnticonceptivosActivity.class);
-                    }//Preguntas Frecuentes
-                    else if (position == 5) {
                         intent = new Intent(context, PreguntasFrecuentesActivity.class);
                     }
                     //Actividades del Parque
-                    else if (position == 6) {
+                    else if (position == 5) {
                         intent = new Intent(context, CalendarioActivity.class);
                     }
                     //Acerca de

@@ -16,7 +16,7 @@ import com.google.android.youtube.player.YouTubePlayerView;
 
 public class AnticonceptivosActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
     public static final String API_KEY = Config.YOUTUBE_API_KEY;
-    public static final String VIDEO_ID = "W9TTit0LOM0";
+    public static final String VIDEO_ID = "GAuF4Ic7ZOA";
     RecyclerView recyclerView;
     RecyclerView.LayoutManager layoutManager;
     RecyclerView.Adapter adapter;
@@ -31,6 +31,7 @@ public class AnticonceptivosActivity extends YouTubeBaseActivity implements YouT
         recyclerView.setLayoutManager(layoutManager);
         adapter = new AnticonceptivosAdapter();
         recyclerView.setAdapter(adapter);
+
 
         /*TextView Titulo = (TextView) findViewById(R.id.titleBienvenida);
         Titulo.setText("Todo a su Tiempo");

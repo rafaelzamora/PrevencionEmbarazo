@@ -39,8 +39,9 @@
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".PreguntasFrecuentesActivity"
-            android:parentActivityName=".MainActivity"></activity>
-        <activity android:name=".EnfermedadesActivity"></activity>
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".EnfermedadesActivity" />
+        <activity android:name=".MarcoLegalActivity"></activity>
     </application>
 
 </manifest>
